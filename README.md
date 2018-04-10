@@ -1,5 +1,4 @@
 # play
-a new repository I am creating
-
+repository that contains play code.
 
 A readme file should contain instructions. Or something. Like poems written by Rupi Kaur.
